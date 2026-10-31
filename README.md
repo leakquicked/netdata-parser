@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/netdata-parser/actions/workflows/python-checks.yml/badge.svg)
+
 # Netdata Parser
 
 Summarize local newline-delimited JSON telemetry exports.
